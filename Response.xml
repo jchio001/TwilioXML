@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-	<Say voice="alice">
-		Alvin Samba is your refrigerator running? This is Mike Hunt.
-	</Say>
+	<Play>
+		https://www.dropbox.com/s/hiyt9jlfiitvfy2/jianyang1.mp3
+	</Play>
 </Response>
